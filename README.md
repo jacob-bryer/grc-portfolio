@@ -24,5 +24,3 @@ Areas of Interest
 * IT Audit
 * Identity & Access Management (IAM)
 * Risk Management
-* HIPAA Compliance
-* Security Governance
