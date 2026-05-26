@@ -1,4 +1,5 @@
 Access Control Policy
+
 This Access Control Policy establishes requirements for managing user access to company systems, applications, networks, and sensitive information. The purpose of this policy is to reduce unauthorized access risks, protect confidential data, and support security and compliance objectives.
 
 1. Scope
