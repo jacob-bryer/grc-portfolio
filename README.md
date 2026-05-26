@@ -9,8 +9,6 @@ This portfolio showcases practical GRC-related projects including:
 * Risk assessments
 * Risk registers
 * Security policies
-* Incident response planning
-* HIPAA security analysis
 * Governance documentation
 
 Certifications
