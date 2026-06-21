@@ -56,3 +56,5 @@ This folder contains:
 
 ## Disclaimer
 Northside Home Goods is a fictional company created for portfolio purposes. All findings, risks, and recommendations in this folder are fictional and don't represent any real company or client. This isn't insurance, legal, or underwriting advice.
+
+Policy template note: The sample policies included in this scenario were adapted conceptually from SANS Institute policy templates. They are not official SANS documents, and SANS Institute retains all rights to its original materials.
